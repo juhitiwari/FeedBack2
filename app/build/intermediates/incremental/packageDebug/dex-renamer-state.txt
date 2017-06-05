@@ -1,0 +1,7 @@
+#Sat Jun 03 11:14:11 IST 2017
+base.0=C\:\\Users\\tjuhi\\Documents\\android\\FeedBack2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_6401aa4f2d4d6678c9f7c24fe8ecc77ab95b89fd
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\tjuhi\\Documents\\android\\FeedBack2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_1f308d4324a47525ecb1bae65866ee7459f0ffb4\\classes.dex
+base.1=C\:\\Users\\tjuhi\\Documents\\android\\FeedBack2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_1f308d4324a47525ecb1bae65866ee7459f0ffb4
+file.0=C\:\\Users\\tjuhi\\Documents\\android\\FeedBack2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_6401aa4f2d4d6678c9f7c24fe8ecc77ab95b89fd\\classes.dex
